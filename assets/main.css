@@ -103,7 +103,7 @@ input[type="search"] {
 .file-name,
 .contextmenu-filename {
   display: block;
-  height: 20px;
+  height: 23px;
   white-space: nowrap;
   text-overflow: ellipsis;
   overflow: hidden;

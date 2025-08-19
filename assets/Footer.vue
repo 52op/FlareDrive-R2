@@ -20,6 +20,8 @@
     </div>
 
     <div class="project-links">
+      <strong>到这已经是第四开了:</strong><a href="https://github.com/marktube/FlareDrive-R2" target="_blank"
+        rel="noopener noreferrer">FlareDrive-R2增强优化版</a>
       <strong>到这已经是第三开了:</strong><a href="https://github.com/52op/FlareDrive-R2" target="_blank"
         rel="noopener noreferrer">FlareDrive-R2增强版</a>
       <strong>感谢:</strong><a href="https://github.com/willow-god/FlareDrive-R2" target="_blank"
@@ -40,10 +42,10 @@ export default {
   name: "Footer",
   data() {
     return {
-      homeUrl: "https://www.sztcrs.com/",
-      blogUrl: "https://blog.sztcrs.com/",
-      githubUrl: "https://github.com/52op",
-      emailUrl: "mailto:admin@sztcrs.com"
+      homeUrl: "https://blog.liuyc.uk/about.html",
+      blogUrl: "https://blog.liuyc.uk/",
+      githubUrl: "https://github.com/marktube",
+      emailUrl: "mailto:liuyc@sem.tsinghua.edu.cn"
     };
   }
 };
